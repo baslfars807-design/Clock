@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "com.example.clock"
         minSdk = 24
-        targetSdk = 21
+        targetSdk = 34
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
